@@ -16,10 +16,13 @@ Step 1: Download Required Files
 - Place these folders in the same directory as `TEST_CCL.py` and `TEST_TCGA.py`.
 Step 2: Run the Programs
 - To test cancer cell line (CCL) data, including RNAi and the CCLE project's test set, use:
-python TEST_CCL.py
-
-# To test TCGA breast cancer data, use:
-python TEST_TCGA.py
+  ```bash
+  python TEST_CCL.py
+  ```
+- To test TCGA breast cancer data, use:
+  ```bash
+  python TEST_TCGA.py
+  ```
 
 # Ensure that your data files are properly formatted and placed in the correct directories as required by each script.
 
