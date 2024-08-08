@@ -11,10 +11,10 @@ Ensure the installation of the following dependencies:
 - matplotlib version: 3.5.3
 
 ## Usage
-Step 1: Download Required Files
+## Step 1: Download Required Files
 - Visit the following link to download the `models` and `data` folders:[this link](https://drive.google.com/drive/folders/11TQ1zVPmmkANP8CIq79MZOsXbITXZCCk?usp=sharing)
 - Place these folders in the same directory as `TEST_CCL.py` and `TEST_TCGA.py`.
-Step 2: Run the Programs
+## Step 2: Run the Programs
 - To test cancer cell line (CCL) data, including RNAi and the CCLE project's test set, use:
   ```bash
   python TEST_CCL.py
@@ -23,8 +23,7 @@ Step 2: Run the Programs
   ```bash
   python TEST_TCGA.py
   ```
-
-# Ensure that your data files are properly formatted and placed in the correct directories as required by each script.
+Ensure that your data files are properly formatted and placed in the correct directories as required by each script.
 
 
 ### TEST_TCGA.py Input:
