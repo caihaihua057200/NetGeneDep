@@ -12,7 +12,6 @@ Ensure the installation of the following dependencies:
 
 ## Usage
 
-```python
 # Step 1: Download Required Files
 # Visit the following link to download the `models` and `data` folders:
 # https://drive.google.com/drive/folders/11TQ1zVPmmkANP8CIq79MZOsXbITXZCCk?usp=sharing
